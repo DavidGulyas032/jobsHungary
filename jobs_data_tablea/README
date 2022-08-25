@@ -1,0 +1,5 @@
+It is a samll pet project and a prctice for myself.
+In the first part i programmed a web scraper in python.
+It saves every job from the site: profession into an excel file.
+The excel csvs I  used to make the visualizations, was created in MySQL with simply queries.
+
